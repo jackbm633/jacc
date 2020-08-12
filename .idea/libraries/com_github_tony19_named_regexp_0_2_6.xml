@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="com.github.tony19:named-regexp:0.2.6" type="repository">
+    <properties maven-id="com.github.tony19:named-regexp:0.2.6" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/tony19/named-regexp/0.2.6/named-regexp-0.2.6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/tony19/named-regexp/0.2.6/named-regexp-0.2.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/tony19/named-regexp/0.2.6/named-regexp-0.2.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="jacc2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/jacc2_jar</output-path>
+    <root id="archive" name="jacc2.jar">
+      <element id="module-output" name="jacc" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/tony19/named-regexp/0.2.6/named-regexp-0.2.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-io/commons-io/2.6/commons-io-2.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.11/commons-lang3-3.11.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
